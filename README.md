@@ -1,2 +1,2 @@
 Microsoft Corporation
-www.gbfhrbd.com/webtv.svg/
+https://cdn.worldvectorlogo.com/logos/webtv.svg
