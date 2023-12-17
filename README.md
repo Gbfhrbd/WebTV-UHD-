@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WebTV HD
 ![WebTV HD logo](https://skcro.github.io/WebTV-HD/Logo.svg)
 
@@ -51,3 +52,7 @@ If you need help for any reason, feel free to contact me on Discord. Username is
 Alternatively, you can contact me on Twitter (`@SKCro_`), but I don't really check Twitter often anymore, so Discord is your best bet.
 
 If you want to report a bug or suggest a feature, use the [bug report template](https://github.com/SKCro/WebTV-HD/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBug%5D+) or [feature suggestion template](https://github.com/SKCro/WebTV-HD/issues/new?assignees=SKCro&labels=enhancement&projects=&template=feature-request.md&title=%5BRequest%5D+) respectively.
+=======
+Microsoft Corporation
+https://cdn.worldvectorlogo.com/logos/webtv.svg
+>>>>>>> 902d0a051150071f698f3824c8a4eb6dea6c0ef9
